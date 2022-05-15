@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MenuFragment</string>
+    <string name="navigation_drawer_open">Abrir Navegación</string>
+    <string name="navigation_drawer_close">Cerrar Navegación</string>
+    <string name="menu_camera">Cámara</string>
+    <string name="menu_galeria">Galeria</string>
+    <string name="menu_manage">Configuracion</string>
+    <string name="menu_grupo">Grupo</string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_send">Enviar</string>
+    <string name="homeFragment">Home</string>
+    <string name="editar_button">Editar</string>
+    <string name="agregar_button">Agregar</string>
+    <string name="str_id">Identificación</string>
+    <string name="str_nombre">Nombre</string>
+    <string name="str_puesto">Puesto</string>
+    <string name="str_departamento">Departamento</string>
+    <string name="str_cancelar">Cancelar</string>
+    <string name="str_eliminiar">Eliminar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:title="@string/menu_camera"
+            android:icon="@android:drawable/ic_menu_camera">
+        </item>
+        <item
+            android:id="@+id/nav_gallery"
+            android:title="@string/menu_galeria"
+            android:icon="@android:drawable/ic_menu_gallery">
+        </item>
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_manage"
+            android:title="@string/menu_manage"
+            android:icon="@android:drawable/ic_menu_manage">
+        </item>
+    </group>
+
+    <item android:title="@string/menu_grupo">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_share"
+                    android:title="@string/menu_share"
+                    android:icon="@android:drawable/ic_menu_share">
+                </item>
+                <item
+                    android:id="@+id/nav_send"
+                    android:title="@string/menu_send"
+                    android:icon="@android:drawable/ic_menu_send">
+                </item>
+            </group>
+        </menu>
+    </item>
+</menu>
